@@ -1,0 +1,165 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-10-02 20:41:18 #1 store] 
+Database '/home/hasib/IS2/Bets213Ite/src/main/resources/bets.temp' has been recovered (tr. 20-24)
+
+[2021-10-02 20:41:18 #2 store] 
+Database '/home/hasib/IS2/Bets213Ite/src/main/resources/bets.temp' is opened by 10897@hasib
+
+[2021-10-02 20:41:18 #3 type] 
+Type domain.User is not enhanced.
+
+[2021-10-02 20:41:18 #4 type] 
+Type domain.Ticket is not enhanced.
+
+[2021-10-02 20:41:18 #5 type] 
+Type domain.Apuesta is not enhanced.
+
+[2021-10-02 20:41:18 #6 type] 
+Type domain.Premio is not enhanced.
+
+[2021-10-02 20:41:18 #7 type] 
+Type domain.Question is not enhanced.
+
+[2021-10-02 20:41:18 #8 type] 
+Type domain.Prediction is not enhanced.
+
+[2021-10-02 20:41:18 #9 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-10-02 20:42:36 #1 store] 
+Database '/home/hasib/IS2/Bets213Ite/src/main/resources/bets.temp' has been recovered (tr. 25-30)
+
+[2021-10-02 20:42:36 #2 store] 
+Database '/home/hasib/IS2/Bets213Ite/src/main/resources/bets.temp' is opened by 10984@hasib
+
+[2021-10-02 20:42:36 #3 type] 
+Type domain.User is not enhanced.
+
+[2021-10-02 20:42:36 #4 type] 
+Type domain.Ticket is not enhanced.
+
+[2021-10-02 20:42:36 #5 type] 
+Type domain.Apuesta is not enhanced.
+
+[2021-10-02 20:42:36 #6 type] 
+Type domain.Premio is not enhanced.
+
+[2021-10-02 20:42:36 #7 type] 
+Type domain.Question is not enhanced.
+
+[2021-10-02 20:42:36 #8 type] 
+Type domain.Prediction is not enhanced.
+
+[2021-10-02 20:42:36 #9 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-10-02 23:25:47 #1 store] 
+Database '/home/hasib/IS2/Bets213Ite/src/main/resources/bets.temp' has been recovered (tr. 31-34)
+
+[2021-10-02 23:25:47 #2 store] 
+Database '/home/hasib/IS2/Bets213Ite/src/main/resources/bets.temp' is opened by 16431@hasib
+
+[2021-10-02 23:25:47 #3 type] 
+Type domain.User is not enhanced.
+
+[2021-10-02 23:25:47 #4 type] 
+Type domain.Ticket is not enhanced.
+
+[2021-10-02 23:25:47 #5 type] 
+Type domain.Apuesta is not enhanced.
+
+[2021-10-02 23:25:47 #6 type] 
+Type domain.Premio is not enhanced.
+
+[2021-10-02 23:25:47 #7 type] 
+Type domain.Question is not enhanced.
+
+[2021-10-02 23:25:47 #8 type] 
+Type domain.Prediction is not enhanced.
+
+[2021-10-02 23:25:47 #9 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-10-02 23:26:36 #1 store] 
+Database '/home/hasib/IS2/Bets213Ite/src/main/resources/bets.temp' is opened by 16538@hasib
+
+[2021-10-02 23:26:36 #2 type] 
+Type domain.User is not enhanced.
+
+[2021-10-02 23:26:36 #3 type] 
+Type domain.Ticket is not enhanced.
+
+[2021-10-02 23:26:36 #4 type] 
+Type domain.Apuesta is not enhanced.
+
+[2021-10-02 23:26:36 #5 type] 
+Type domain.Premio is not enhanced.
+
+[2021-10-02 23:26:36 #6 type] 
+Type domain.Question is not enhanced.
+
+[2021-10-02 23:26:36 #7 type] 
+Type domain.Prediction is not enhanced.
+
+[2021-10-02 23:26:36 #8 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-10-02 23:28:01 #1 store] 
+Database '/home/hasib/IS2/Bets213Ite/src/main/resources/bets.temp' is opened by 16615@hasib
+
+[2021-10-02 23:28:01 #2 type] 
+Type domain.User is not enhanced.
+
+[2021-10-02 23:28:01 #3 type] 
+Type domain.Ticket is not enhanced.
+
+[2021-10-02 23:28:01 #4 type] 
+Type domain.Apuesta is not enhanced.
+
+[2021-10-02 23:28:01 #5 type] 
+Type domain.Premio is not enhanced.
+
+[2021-10-02 23:28:01 #6 type] 
+Type domain.Question is not enhanced.
+
+[2021-10-02 23:28:01 #7 type] 
+Type domain.Prediction is not enhanced.
+
+[2021-10-02 23:28:01 #8 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-10-02 23:34:16 #1 store] 
+Database '/home/hasib/IS2/Bets213Ite/src/main/resources/bets.temp' is opened by 17143@hasib
+
+[2021-10-02 23:34:16 #2 type] 
+Type domain.User is not enhanced.
+
+[2021-10-02 23:34:16 #3 type] 
+Type domain.Ticket is not enhanced.
+
+[2021-10-02 23:34:16 #4 type] 
+Type domain.Apuesta is not enhanced.
+
+[2021-10-02 23:34:16 #5 type] 
+Type domain.Premio is not enhanced.
+
+[2021-10-02 23:34:16 #6 type] 
+Type domain.Question is not enhanced.
+
+[2021-10-02 23:34:16 #7 type] 
+Type domain.Prediction is not enhanced.
+
+[2021-10-02 23:34:16 #8 type] 
+Type domain.Event is not enhanced.
+
