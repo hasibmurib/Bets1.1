@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 <modelVersion>4.0.0</modelVersion> 
 <groupId>is2</groupId>
-<artifactId>Bets1.1Integrated</artifactId> 
+<artifactId>Bets1.1Nuevo</artifactId> 
 <version>0.0.1-SNAPSHOT</version>
  
 <build> 
@@ -26,6 +26,38 @@
 					</execution> 
 				</executions>
 				</plugin>
+				<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.8.1</version>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<version>2.19.1</version>
+				<configuration>
+					<testFailureIgnore>true</testFailureIgnore>
+				</configuration>
+			</plugin>
+			
+			<plugin>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-surefire-plugin</artifactId>
+    <version>2.21.0</version>
+    <dependencies>
+        <dependency>
+            <groupId>org.junit.platform</groupId>
+            <artifactId>junit-platform-surefire-provider</artifactId>
+            <version>1.2.0-M1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-engine</artifactId>
+            <version>5.2.0-M1</version>
+        </dependency>
+    </dependencies>
+</plugin>
+			
 	</plugins>
 </build>
 <repositories>
@@ -41,7 +73,7 @@
 <maven.compiler.source>11</maven.compiler.source> 
 <sonar.organization>hasibmurib</sonar.organization> 
 <sonar.host.url>https://sonarcloud.io</sonar.host.url> 
-<sonar.login>0165a41227720baa35ebb4d68707c6cecd5d08f2</sonar.login>
+<sonar.login>5aca8e4a4c993d06e5ce0e92e6c363a36ab708da</sonar.login>
  </properties>
  
  <!-- https://mvnrepository.com/artifact/junit/junit -->
@@ -113,10 +145,6 @@
 			<version>1.7.0</version>
 			<scope>test</scope>
 		</dependency>
-
-		<!-- https://mvnrepository.com/artifact/org.mockito/mockito-all -->
-		
-<!-- https://mvnrepository.com/artifact/org.mockito/mockito-all -->
 <dependency> 
 <groupId>org.mockito</groupId> 
 <artifactId>mockito-all</artifactId>
