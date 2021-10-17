@@ -24,7 +24,7 @@ import exceptions.QuestionAlreadyExist;
 /**
  * It implements the business logic as a web service.
  */
-//un comentario sin mas 
+//un comentario sin
 @WebService(endpointInterface = "businessLogic.BLFacade")
 public class BLFacadeImplementation  implements BLFacade {
 	
