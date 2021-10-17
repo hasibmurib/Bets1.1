@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 <modelVersion>4.0.0</modelVersion> 
 <groupId>is2</groupId>
-<artifactId>Bets21</artifactId> 
+<artifactId>Bets1.1Integrated</artifactId> 
 <version>0.0.1-SNAPSHOT</version>
  
 <build> 
@@ -37,11 +37,11 @@
 </repositories>
 
 <properties> 
-<maven.compiler.target>1.8</maven.compiler.target> 
-<maven.compiler.source>1.8</maven.compiler.source> 
+<maven.compiler.target>11</maven.compiler.target> 
+<maven.compiler.source>11</maven.compiler.source> 
 <sonar.organization>hasibmurib</sonar.organization> 
 <sonar.host.url>https://sonarcloud.io</sonar.host.url> 
-<sonar.login>ef6127949f63f4470d1c1298605dba6db5a86a37</sonar.login>
+<sonar.login>0165a41227720baa35ebb4d68707c6cecd5d08f2</sonar.login>
  </properties>
  
  <!-- https://mvnrepository.com/artifact/junit/junit -->
@@ -101,7 +101,21 @@
 <artifactId>jta</artifactId> 
 <version>1.1</version>
 </dependency>
+<dependency>
+			<groupId>org.junit.jupiter</groupId>
+			<artifactId>junit-jupiter-api</artifactId>
+			<version>5.8.0</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.junit.platform</groupId>
+			<artifactId>junit-platform-launcher</artifactId>
+			<version>1.7.0</version>
+			<scope>test</scope>
+		</dependency>
 
+		<!-- https://mvnrepository.com/artifact/org.mockito/mockito-all -->
+		
 <!-- https://mvnrepository.com/artifact/org.mockito/mockito-all -->
 <dependency> 
 <groupId>org.mockito</groupId> 
@@ -109,5 +123,7 @@
  <version>1.9.5</version> 
  <scope>test</scope> 
  </dependency>
+ 
+ 
 </dependencies>
 </project>
