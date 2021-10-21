@@ -8,8 +8,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
-import java.util.ResourceBundle;
-import java.util.Vector;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
@@ -18,14 +16,9 @@ import javax.persistence.TypedQuery;
 
 import configuration.ConfigXML;
 import configuration.UtilDate;
-import domain.Apuesta;
 import domain.Event;
-import domain.Prediction;
-import domain.Premio;
 import domain.Question;
-import domain.Ticket;
 import domain.User;
-import exceptions.QuestionAlreadyExist;
 
 /**
  * It implements the data access to the objectDb database

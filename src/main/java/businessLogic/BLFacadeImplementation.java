@@ -21,6 +21,7 @@ import exceptions.EventFinished;
 import exceptions.PredictionAlreadyExist;
 import exceptions.QuestionAlreadyExist;
 
+//prueba
 /**
  * It implements the business logic as a web service.
  */
