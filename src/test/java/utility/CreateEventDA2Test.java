@@ -22,7 +22,7 @@ import exceptions.EventFinished;
 import exceptions.ExpiredDate;
 import utility.TestUtilityFacadeImplementation;
 
-public class CreateEventDATest2 {
+public class CreateEventDA2Test {
 	
 	private DataAccessMurib2 sut=  new DataAccessMurib2(false);
 	private TestUtilityFacadeImplementation testBL = new TestUtilityFacadeImplementation();
